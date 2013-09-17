@@ -1,0 +1,9 @@
+Subfolder,Filename,Duration,SOA,oddBallYes,freeze,comment
+auditoryStimuli,standardTone.wav,0.2,0.594,0,1,firstFreeze
+auditoryStimuli,standardTone.wav,0.2,0.594,0,0,NaN
+auditoryStimuli,standardTone.wav,0.2,0.594,0,0,NaN
+auditoryStimuli,standardTone.wav,0.2,0.594,0,0,NaN
+auditoryStimuli,deviantTone.wav,0.2,0.594,1,0,oddBall
+auditoryStimuli,standardTone.wav,0.2,0.594,0,0,NaN
+auditoryStimuli,standardTone.wav,0.2,0.594,0,0,NaN
+auditoryStimuli,standardTone.wav,0.2,0.594,0,1,secondFreeze
